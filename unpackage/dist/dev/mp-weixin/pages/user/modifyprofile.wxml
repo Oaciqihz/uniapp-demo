@@ -1,0 +1,1 @@
+<view><view class="title _p">{{$root.m0+":"}}</view><view class="inputbox"><input type="text" placeholder="{{$root.m1}}"/></view><view class="title _p">{{$root.m2+":"}}</view><view class="inputbox"><input type="text" placeholder="{{$root.m3}}"/></view><view class="btn">{{''+$root.m4+''}}</view></view>

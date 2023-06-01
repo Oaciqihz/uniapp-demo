@@ -1,0 +1,286 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/commodity/commodity",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 250,
+				"navigationStyle": "custom"
+			}
+
+		}, {
+			"path": "pages/news/news",
+			"style": {
+				"navigationBarTitleText": "%uni.app.news%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/shoppingCar/shoppingCar",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+
+		}, {
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "%uni.app.user%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/login",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+
+		}, {
+			"path": "pages/user/forgetPassword",
+			"style": {
+				"navigationBarTitleText": "%uni.app.forget%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/recharge",
+			"style": {
+				"navigationBarTitleText": "%uni.app.recharge%",
+				"navigationBarBackgroundColor": "#ffffff",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/user/sign",
+			"style": {
+				"navigationBarTitleText": "%uni.app.sign%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/index/product",
+			"style": {
+				"navigationBarTitleText": "%uni.app.product%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/index/revealing",
+			"style": {
+				"navigationBarTitleText": "%uni.app.revealing%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/index/comment",
+			"style": {
+				"navigationBarTitleText": "%uni.app.Comment%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/record",
+			"style": {
+				"navigationBarTitleText": "%uni.app.record%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/obtained",
+			"style": {
+				"navigationBarTitleText": "%uni.app.Obtained%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/showing",
+			"style": {
+				"navigationBarTitleText": "%uni.app.showing%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/history",
+			"style": {
+				"navigationBarTitleText": "%uni.app.history%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/changepassword",
+			"style": {
+				"navigationBarTitleText": "%uni.app.changepassword%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/changeimage",
+			"style": {
+				"navigationBarTitleText": "%uni.app.changeimage%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/modifyprofile",
+			"style": {
+				"navigationBarTitleText": "%uni.app.modifyprofile%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/address",
+			"style": {
+				"navigationBarTitleText": "%uni.app.address%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/index/history",
+			"style": {
+				"navigationBarTitleText": "%uni.app.history%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/index/personalhome",
+			"style": {
+				"navigationBarTitleText": "%uni.app.userhome%",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+
+		}, {
+			"path": "pages/user/register",
+			"style": {
+				"navigationBarTitleText": "%uni.app.register%",
+				"navigationBarBackgroundColor": "#ffffff",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/user/inviteManagement",
+			"style": {
+				"navigationBarTitleText": "%uni.app.inviteManagement%",
+				"navigationBarBackgroundColor": "#ffffff",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/user/Pointlottery",
+			"style": {
+				"navigationBarTitleText": "%uni.app.Pointlottery%",
+				"navigationBarBackgroundColor": "#ffffff",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/award",
+			"style": {
+				"navigationBarTitleText": "%uni.app.award%",
+				"navigationBarBackgroundColor": "#ffffff",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	    ,{
+            "path" : "pages/index/commentdetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "%uni.app.commdetail%",
+				"navigationBarBackgroundColor": "#ffffff",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/NewAddress",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "%uni.app.NewAddress%",
+                "navigationBarBackgroundColor": "#ffffff",
+				"enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/settlementPayment",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "%uni.app.payment%",
+				 "navigationBarBackgroundColor": "#ffffff",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#ff696a",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"iconPath": "static/index1.png",
+				"pagePath": "pages/index/index",
+				"selectedIconPath": "static/index1s.png",
+				"text": "%uni.app.index%"
+			},
+			{
+				"iconPath": "static/index2.png",
+				"pagePath": "pages/commodity/commodity",
+				"selectedIconPath": "static/index2s.png",
+				"text": "%uni.app.commo%"
+			},
+			{
+				"iconPath": "static/index3.png",
+				"pagePath": "pages/news/news",
+				"selectedIconPath": "static/index3s.png",
+				"text": "%uni.app.news%"
+			},
+			{
+				"iconPath": "static/index4.png",
+				"pagePath": "pages/shoppingCar/shoppingCar",
+				"selectedIconPath": "static/index4s.png",
+				"text": "%uni.app.shop%"
+			},
+			{
+				"iconPath": "static/index5.png",
+				"pagePath": "pages/user/user",
+				"selectedIconPath": "static/index5s.png",
+				"text": "%uni.app.user%"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

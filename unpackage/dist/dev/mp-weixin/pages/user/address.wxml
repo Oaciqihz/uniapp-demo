@@ -1,0 +1,1 @@
+<view class="bit"><view class="ge"></view><block wx:for="{{20}}" wx:for-item="item" wx:for-index="index"><view class="box"><view class="user"><view class="mor _p">{{$root.m0}}</view><view class="pp _p">aa</view><view class="phone _p">12345678910</view></view><view class="addname _p">广东省广州市番禺区某某街某某号</view><view class="cz"></view></view></block><view class="gss"></view></view>

@@ -1,0 +1,76 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/commodity/commodity",
+    "pages/news/news",
+    "pages/shoppingCar/shoppingCar",
+    "pages/user/user",
+    "pages/user/login",
+    "pages/user/forgetPassword",
+    "pages/user/recharge",
+    "pages/user/sign",
+    "pages/index/product",
+    "pages/index/revealing",
+    "pages/index/comment",
+    "pages/user/record",
+    "pages/user/obtained",
+    "pages/user/showing",
+    "pages/user/history",
+    "pages/user/changepassword",
+    "pages/user/changeimage",
+    "pages/user/modifyprofile",
+    "pages/user/address",
+    "pages/index/history",
+    "pages/index/personalhome",
+    "pages/user/register",
+    "pages/user/inviteManagement",
+    "pages/user/Pointlottery",
+    "pages/index/award"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#ff696a",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "iconPath": "static/index1.png",
+        "pagePath": "pages/index/index",
+        "selectedIconPath": "static/index1s.png",
+        "text": "Home"
+      },
+      {
+        "iconPath": "static/index2.png",
+        "pagePath": "pages/commodity/commodity",
+        "selectedIconPath": "static/index2s.png",
+        "text": "Goods"
+      },
+      {
+        "iconPath": "static/index3.png",
+        "pagePath": "pages/news/news",
+        "selectedIconPath": "static/index3s.png",
+        "text": "Announcement"
+      },
+      {
+        "iconPath": "static/index4.png",
+        "pagePath": "pages/shoppingCar/shoppingCar",
+        "selectedIconPath": "static/index4s.png",
+        "text": "Cart"
+      },
+      {
+        "iconPath": "static/index5.png",
+        "pagePath": "pages/user/user",
+        "selectedIconPath": "static/index5s.png",
+        "text": "Personal"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

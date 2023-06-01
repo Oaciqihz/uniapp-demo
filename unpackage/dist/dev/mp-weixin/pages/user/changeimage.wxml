@@ -1,0 +1,1 @@
+<view><view class="imgbox"><u--image vue-id="1609c8a6-1" showLoading="{{true}}" src="{{src}}" width="220rpx" height="220rpx" shape="circle" bind:__l="__l"></u--image><view class="imgbosx"><image class="img" src="../../static/head.png" mode="widthFix"></image></view></view><view class="btn">{{''+$root.m0+''}}</view></view>
